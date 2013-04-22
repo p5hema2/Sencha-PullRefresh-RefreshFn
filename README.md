@@ -17,7 +17,7 @@ Here is an user extension with gives the old functionality back to you.
 ## Usage:
 
 
-- copy the MhNavigationView.js to "./ux/touch/"
+- copy the PullRefreshFn.js to "./ux/touch/"
 - load your the file in your "./app.js"
 
 ```javascript
