@@ -7,8 +7,7 @@ written by [Martin Heﬂ](https://github.com/p5hema2)
 
 tested against:
 - Sencha Touch 2.2.0
-
-(working in all my cases, pls report if it is not working)
+(working in all my cases, didn't done a full test yet)
 
 ## About:
 
@@ -29,7 +28,7 @@ Here is an user extension with gives the old functionality back to you.
     });
 ```
 
-- create a List like this (its the sencha touch 2.1.1 way)
+- create a List like this (it's the sencha touch 2.1.1 way)
 
 ```javascript
 Ext.create('Ext.dataview.List', {
@@ -42,7 +41,7 @@ Ext.create('Ext.dataview.List', {
 			xclass: 'Ext.ux.touch.PullRefreshFn',
 			pullRefreshText: 'Pull down for more new Tweets!'
 			refreshFn: function() { 
-				Ext.getStore('ENTER YOUR STORE HERE').load('',1)
+				Ext.getStore('ENTER YOUR STORE HERE').load()
 		   }
 		}
 	],
