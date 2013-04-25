@@ -1,9 +1,9 @@
-Sencha-Domfriendly-Navigation
-=============================
+Sencha-PullRefresh-RefreshFn
+============================
 
 version 0.1.0  
 based on Sencha Touch 2.2.0
-written by [Martin Heß](https://github.com/p5hema2)
+written by [Martin Heï¿½](https://github.com/p5hema2)
 
 tested against:
 - Sencha Touch 2.2.0
@@ -57,5 +57,5 @@ Ext.create('Ext.dataview.List', {
 
 <br><br>
 Greetings,  
-[Martin Heß](https://github.com/p5hema2)
+[Martin Heï¿½](https://github.com/p5hema2)
 ### Don't forget to star the repo. :-)
