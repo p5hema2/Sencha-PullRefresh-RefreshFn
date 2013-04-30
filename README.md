@@ -4,7 +4,7 @@ Sencha-PullRefresh-RefreshFn
 version 1.0.0  
 based on Sencha Touch 2.2.0  
 written by [Martin Hess](https://github.com/p5hema2)  
-@ [flyacts GmbH](https://github.com/flyacts)
+@ [flyacts GmbH](http://www.flyacts.com)
 
 tested against:
 - Sencha Touch 2.2.0
@@ -66,5 +66,5 @@ Ext.create('Ext.dataview.List', {
 <br><br>
 Greetings,  
 [Martin Hess](https://github.com/p5hema2)  
-@ [flyacts GmbH](https://github.com/flyacts)
+@ [flyacts GmbH](http://www.flyacts.com)
 ### Don't forget to star the repo. :-)
