@@ -1,11 +1,11 @@
 /**
  * This user extension gives st 2.2.0 Pullrefresh the RefreshFn back
- * Dom Friendly Navigation View
  * based on sencha touch 2.2.0 beta 1
  * 
  * @class Ext.ux.touch.PullRefreshFn
  * @version 1.0.0
- * @author Martin Hess <p5hema2@github>
+ * @author Martin Hess <https://github.com/p5hema2>
+ * @author Martin Hess <https://github.com/flyacts>
  *
  * ## Example
  *
