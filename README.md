@@ -8,7 +8,6 @@ written by [Martin Hess](https://github.com/p5hema2)
 
 tested against:
 - Sencha Touch 2.2.0
-(working in all my cases, didn't done a full test yet)
 
 ## About:
 
