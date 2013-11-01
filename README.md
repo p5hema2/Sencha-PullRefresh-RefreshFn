@@ -11,6 +11,7 @@ tested against:
 - Sencha Touch 2.2.1
 
 not working with ST2.3, i am working on a new version.
+update: beta-version of 2.3 plugin [here](http://www.sencha.com/forum/showthread.php?261763-PullRefresh-without-refreshFn&p=1007532#post1007532)
 
 ## About:
 
