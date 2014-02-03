@@ -16,7 +16,6 @@ written by [Martin Hess](https://github.com/p5hema2)
 tested against:
 - Sencha Touch 2.2.0
 - Sencha Touch 2.2.1
-- not working with ST2.3
 
 #### version 2.0.0  
 based on Sencha Touch 2.3.0  
@@ -25,8 +24,16 @@ written by [Martin Hess](https://github.com/p5hema2)
 tested against:
 - Sencha Touch 2.3.0
 - Sencha Touch 2.3.1
-- not working with ST2.2
 - sometimes a bug ca ocure that the list isn't snapping back (if anyone findes the bug, I would appreciate it if I get sent the solution)
+
+#### version 2.0.1-beta
+based on Sencha Touch 2.3.0  
+written by [Martin Hess](https://github.com/p5hema2)
+
+tested against:
+- Sencha Touch 2.3.0
+- Sencha Touch 2.3.1
+- i implemented a little hack for the animation, its working so far but its still not nice
 
 ## Usage:
 
