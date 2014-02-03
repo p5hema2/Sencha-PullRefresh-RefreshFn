@@ -1,21 +1,32 @@
 Sencha-PullRefresh-RefreshFn
 ============================
 
-version 1.0.0  
-based on Sencha Touch 2.2.0  
-written by [Martin Hess](https://github.com/p5hema2)  
-@ [flyacts GmbH](http://www.flyacts.com)
-
-tested against:
-- Sencha Touch 2.2.0
-- Sencha Touch 2.2.1
-- not working with ST2.3, i am working on a new version.  
-update: beta-version of 2.3 plugin [here](http://www.sencha.com/forum/showthread.php?261763-PullRefresh-without-refreshFn&p=1007532#post1007532)
+## Discussion
+[here](http://www.sencha.com/forum/showthread.php?261763-PullRefresh-without-refreshFn&p=1007532#post1007532)
 
 ## About:
 
 Sencha removed the refreshFn from the pullrefresh plugin in ST 2.2.  
 Here is an user extension with gives the old functionality back to you.
+
+## version 1.0.0  
+based on Sencha Touch 2.2.0  
+written by [Martin Hess](https://github.com/p5hema2)
+
+tested against:
+- Sencha Touch 2.2.0
+- Sencha Touch 2.2.1
+- not working with ST2.3
+
+## version 2.0.0  
+based on Sencha Touch 2.3.0  
+written by [Martin Hess](https://github.com/p5hema2)
+
+tested against:
+- Sencha Touch 2.3.0
+- Sencha Touch 2.3.1
+- not working with ST2.2
+- sometimes a bug ca ocure that the list isn't snapping back (if anyone findes the bug, I would appreciate it if I get sent the solution)
 
 ## Usage:
 
@@ -68,6 +79,5 @@ Ext.create('Ext.dataview.List', {
 
 <br><br>
 Greetings,  
-[Martin Hess](https://github.com/p5hema2)  
-@ [flyacts GmbH](http://www.flyacts.com)
+[Martin Hess](https://github.com/p5hema2)
 ### Don't forget to star the repo. :-)
