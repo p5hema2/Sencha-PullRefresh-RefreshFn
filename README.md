@@ -6,7 +6,7 @@ Sencha-PullRefresh-RefreshFn
 Sencha removed the refreshFn from the pullrefresh plugin in ST 2.2.  
 Here is an user extension with gives the old functionality back to you.
 
-### Discussion
+#### Discussion
 [here](http://www.sencha.com/forum/showthread.php?261763-PullRefresh-without-refreshFn&p=1007532#post1007532)
 
 #### version 1.0.0  
