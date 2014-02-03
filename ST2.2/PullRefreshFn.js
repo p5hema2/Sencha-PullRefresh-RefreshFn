@@ -5,7 +5,6 @@
  * @class Ext.ux.touch.PullRefreshFn
  * @version 1.0.0
  * @author Martin Hess <https://github.com/p5hema2>
- * @author Martin Hess <https://github.com/flyacts>
  *
  * ## Example
  *
